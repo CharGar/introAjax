@@ -1,0 +1,52 @@
+body{
+background-color: silver;
+}
+h1{
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+
+}
+
+img{
+  position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 600px;
+   height: 800px;
+   margin-top: 80px;
+/* Half the height */
+   margin-left: -300px; /* Half the width */
+}
+
+
+h2{
+  font-family: 'Julius Sans One', sans-serif;
+
+  text-align: center;
+  font-size: 90px;
+  color: gold;
+  text-shadow: 4px 4px 4px maroon;
+}
+
+h3{
+  font-family: 'Julius Sans One', sans-serif;
+
+    text-align: center;
+    font-size: 40px;
+    color: gold;
+    text-shadow: 4px 4px 4px maroon;
+
+}
+h4{
+  font-family: 'Julius Sans One', sans-serif;
+
+    text-align: center;
+    font-size: 30px;
+    color: gold;
+    text-shadow: 4px 4px 4px maroon;
+
+}
+
+li{
+ list-style: none;
+}
